@@ -1,5 +1,5 @@
 # **API Testing**
-![Image](https://github.com/user-attachments/assets/cbf74dc0-d2fd-4715-9240-fea0265fcfb3)
+![Image](https://github.com/user-attachments/assets/0c6ea77f-718f-4ae4-b808-8b94133e9ed4)
 ### Project name: RestfulBooker
 ([https://restful-booker.herokuapp.com](https://restful-booker.herokuapp.com/))
 
@@ -21,7 +21,7 @@ features and is loaded with a bunch of bugs for you to explore.
 1 POST - Create Authentication Token
 
   -----------------------------------------------------------------------
-  ![](./image1.png)
+  ![Image](https://github.com/user-attachments/assets/f1f84f34-db0e-434a-ac5e-7056fad6d289)
   -----------------------------------------------------------------------
   
   -----------------------------------------------------------------------
