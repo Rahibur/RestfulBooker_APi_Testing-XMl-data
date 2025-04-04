@@ -31,24 +31,24 @@ features and is loaded with a bunch of bugs for you to explore.
 ![Image](https://github.com/user-attachments/assets/3d7789bc-e2aa-406d-bdcc-dcf12d7c9dc0)
 
 -----------------------------------------------------------------------
-3 POST - Create a Booking
+3 POST - Create a Booking (Data format: XML)
  ![Image](https://github.com/user-attachments/assets/f1f84f34-db0e-434a-ac5e-7056fad6d289)
 
 -----------------------------------------------------------------------
-4 GET - Retrieve a Single Booking
-![Image](https://github.com/user-attachments/assets/7eacf746-46c4-4541-a948-d9bee8d4c902)
+4 GET - Retrieve a Single Booking  (Data format: XML)
+![image](https://github.com/user-attachments/assets/4bd5e8d5-b4cc-4dc0-bdbc-d10bcc2f6c0c)
 
 -----------------------------------------------------------------------
-5 PUT - Update Booking
-![Image](https://github.com/user-attachments/assets/43863409-e54e-4a87-86bb-c97997f0d2c9)
+5 PUT - Update Booking  (Data format: XML)
+![image](https://github.com/user-attachments/assets/80c8bbf9-d1dd-4234-978d-c3e7c9448ede)
 
 -----------------------------------------------------------------------
-6 GET - Retrieve Updated Booking Data
-![Image](https://github.com/user-attachments/assets/71e60250-483d-4902-8fc6-881700ffb8aa)
+6 GET - Retrieve Updated Booking Data  (Data format: XML)
+![image](https://github.com/user-attachments/assets/448b1543-2202-4a47-ad2c-be3761889a08)
 
 -----------------------------------------------------------------------
-7 PATCH - Update a Partial Booking
-![Image](https://github.com/user-attachments/assets/a978f14c-09d8-4812-aad5-00b52900b287)
+7 PATCH - Update a Partial Booking  (Data format: XML)
+![image](https://github.com/user-attachments/assets/19789aab-2c8a-4cd4-8088-4c193a9d3644)
 
 -----------------------------------------------------------------------
 8 DELETE - Remove a Booking
