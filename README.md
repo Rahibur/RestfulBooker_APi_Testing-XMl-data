@@ -21,7 +21,8 @@ features and is loaded with a bunch of bugs for you to explore.
 1 POST - Create Authentication Token
 
   -----------------------------------------------------------------------
-  ![Image](https://github.com/user-attachments/assets/f1f84f34-db0e-434a-ac5e-7056fad6d289)
+  ![image](https://github.com/user-attachments/assets/40b7ffe8-f39a-4b32-b81c-9d409097e8d1)
+
   -----------------------------------------------------------------------
   
   -----------------------------------------------------------------------
@@ -31,7 +32,7 @@ features and is loaded with a bunch of bugs for you to explore.
 
 -----------------------------------------------------------------------
 3 POST - Create a Booking
-![Image](https://github.com/user-attachments/assets/fec59957-bfc7-4fed-a0fa-aeab89b41ba5)
+ ![Image](https://github.com/user-attachments/assets/f1f84f34-db0e-434a-ac5e-7056fad6d289)
 
 -----------------------------------------------------------------------
 4 GET - Retrieve a Single Booking
